@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **on myself**
 
-- 🌱 I’m currently learning **Tensorflow**
-
 - 👯 I’m looking to collaborate on **data related projects**
 
 - 💬 Ask me about **anything data related**
